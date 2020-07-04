@@ -33,125 +33,64 @@
     "logica":[
         {
             "id": 1,
-            "title": "",
-            "description": "",
-            "img": "",
-            "url": ""
+            "title": "O que é lógica de programação?",
+            "description": "É o planejamento que a gente faz antes de executar uma ação, um cálculo com racionalidade. Em programação toda função, rotina e procedimento devem ser planejados previamente, ou seja, definir tudo que precisa ser feito com raciocinio lógico antes de começar a codar. Estudar lógica de programação te ajuda a buscar sempre a melhor solução para um determinado problema:Solução rápida? Solução Segura? Criar mais de um caminho para o usuário?",
+            "img": "https://media.giphy.com/media/1jl173guBKkbvC03rQ/giphy.gif",
+            "url": "https://www.youtube.com/watch?v=Ds1n6aHchRU"
         },
         {
             "id": 2,
-            "title": "",
-            "description": "",
-            "img": "",
-            "url": ""
+            "title": "O que se aprende em lógica?",
+            "description": "Ela te ensina a teoria da programação, então tendo uma boa lógica desenvolvida você consegue aprender qualquer linguagem de programação. Você aprende a criar algoritmos: sequencia ordenada de passos lógicos que ao ser seguida realiza com êxito uma determinada tarefa. Ainda não é a solução, é o caminho para chegar lá. Um programa de computador é exatamente isso: sequencia ordenada de passos lógicos que ao ser seguida realiza com exito uma determinada tarefa",
+            "img": "https://media.giphy.com/media/1AjV8CsyeitOPvbEZH/giphy.gif",
+            "url": "https://becode.com.br/melhor-forma-de-aprender-logica-de-programacao/"
         },
         {
             "id": 3,
-            "title": "",
-            "description": "",
-            "img": "",
-            "url": ""
+            "title": "Tipos de algoritmos",
+            "description": "Descrição narrativa: usada a linguaguem natural que a gente usa pra se comunicar. Fluxograma ou diagrama: são usadas diferentes formas geométricas para definir - inicio e fim, processamento, entrada de dados, saída de dados e decisão. Pseudo código ou linguagem estruturada: forma mais próxima da linguagem de programação, ele usa blocos, comandos de entradas e saídas, variavéis, constantes, expressões lógicas, relacionais e aritiméticas e outros comandos.",
+            "img": "https://media.giphy.com/media/623IA9JAFc0NWhesWm/giphy.gif",
+            "url": "https://youtu.be/JLlTo3SwxJE"
         },
         {
             "id": 4,
-            "title": "",
-            "description": "",
-            "img": "",
-            "url": ""
+            "title": "Fases para criar um algoritmo",
+            "description": "1- definir o problema;  2- verificar formas possíveis; 3- defina a melhor forma de solucionar o problema dentro do contexto atual(regra de negócio); 4- criar o algoritmo; 5- transformar o algoritmo através de uma linguagem; 6- analisar se o problema foi resolvido, caso contrário voltar à etapa inicial e repetir o processo.",
+            "img": "https://media.giphy.com/media/WnNwMk5FVD0DW799kP/giphy.gif",
+            "url": "https://olhardigital.com.br/noticia/conheca-ada-lovelace-a-1-programadora-da-historia/40718"
         }
 
     ],
     "css":[
         {
             "id": 1,
-            "title": "",
-            "description": "",
-            "img": "",
-            "url": ""
+            "title": "O que é CSS?",
+            "description": "CSS é abreviação de Cascading Style Sheet (folha de estilos em cascata). É a linguagem que define estilos para o HTML, portanto, não se trata de linguagem de programação. CSS tem 'cascata' no nome, devido a sua forma de determinar a propriedade de um elemento - levando em consideração hierarquia de seletores e de chamadas de estilo (inline, internal e external). Para fazer o link de um arquivo .css em um documento .html, devemos inserir a tag no do documento, com o href do caminho do arquivo.",
+            "img": "https://media.giphy.com/media/d2YqoZgbqYLqo/giphy.gif",
+            "url": "https://developer.mozilla.org/pt-BR/docs/Aprender/Getting_started_with_the_web/CSS_basico"
         },
         {
             "id": 2,
-            "title": "",
-            "description": "",
-            "img": "",
-            "url": ""
+            "title": "Como inserir estilo aos elementos do HTML?",
+            "description": "seletor {propriedade: valor;} Tipos de seletores e como identificar no css: Class: Use o ponto '.'; Id: Use '#'; Tag: Use apenas o nome da tag",
+            "img": "https://media.giphy.com/media/3o7aCWupfZBk2cReqA/giphy.gif",
+            "url": "https://developer.mozilla.org/pt-BR/docs/Aprender/Getting_started_with_the_web/CSS_basico"
         },
         {
             "id": 3,
-            "title": "",
-            "description": "",
-            "img": "",
-            "url": ""
+            "title": "Propriedades de estilo",
+            "description": "Propriedades de background: background-imagem, background-color Propriedades de texto: text-align, font-family, font-size, text-decoration, font-size, text-transfor Propriedades de layout: width, margin, padding, display (flex, block) Propriedade de cor: color Propriedade de decoração: box-shadow, borde",
+            "img": "https://media.giphy.com/media/9PiwPYYPXaEhkm2VCI/giphy.gif",
+            "url": "https://origamid.com/projetos/flexbox-guia-completo/"
         },
         {
             "id": 4,
-            "title": "",
-            "description": "",
-            "img": "",
-            "url": ""
-        }
-
-    ],
-    "git":[
-        {
-            "id": 1,
-            "title": "",
-            "description": "",
-            "img": "",
-            "url": ""
-        },
-        {
-            "id": 2,
-            "title": "",
-            "description": "",
-            "img": "",
-            "url": ""
-        },
-        {
-            "id": 3,
-            "title": "",
-            "description": "",
-            "img": "",
-            "url": ""
-        },
-        {
-            "id": 4,
-            "title": "",
-            "description": "",
-            "img": "",
-            "url": ""
-        }
-
-    ],
-    "github":[
-        {
-            "id": 1,
-            "title": "",
-            "description": "",
-            "img": "",
-            "url": ""
-        },
-        {
-            "id": 2,
-            "title": "",
-            "description": "",
-            "img": "",
-            "url": ""
-        },
-        {
-            "id": 3,
-            "title": "",
-            "description": "",
-            "img": "",
-            "url": ""
-        },
-        {
-            "id": 4,
-            "title": "",
-            "description": "",
-            "img": "",
-            "url": ""
+            "title": "O que é Flex Container?",
+            "description": "O Flex Container é a tag que envolve os itens flex, ao indicar display: flex, essa tag passa a ser um Flex Container.",
+            "img": "https://media.giphy.com/media/3oz8xuZupCwQf6ejUk/giphy.gif",
+            "url": "https://flexboxfroggy.com"
         }
 
     ]
+    
 }
