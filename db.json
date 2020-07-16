@@ -5,7 +5,7 @@
             "title": "O que é HTML",
             "description": "HTML é uma abreviação de Hyper Text Markup Language (linguagem de marcação em hipertexto). Ou seja, não se trata de uma linguagem de programação, pois não tem lógica (algoritmos, processos etc). Ele cria a estrutura de uma página ou aplicação web, determinando a separação de layout e conteúdo.",
             "img": "https://media.giphy.com/media/YTPQs7gqhiQW82kWvk/giphy.gif",
-            "url": "https://youtu.be/wpyKYDc4g0A"
+            "url": "https://www.instagram.com/tv/CCqqEC6JlKw/"
         },
         {
             "id": 2,
@@ -24,7 +24,7 @@
         {
             "id": 4,
             "title": "Como escrever um código organizado",
-            "description": "Para escrever um código com boa semântica é preciso dominar as tags, tributos e criação de valores de atributos. Códigos organizados facilitam a vida de outros programadores de seu time, na hora de fazer manutenção, permitem melhor rankeamento no google, colaboram para o SEO além de deixar seu código acessivel para pessoas com deficiencia visual. Uma diferença entre classe e id é que podem haver várias classes com o mesmo valor, ao passo que ids devem ser únicos.",
+            "description": "Para escrever um código com boa semântica é preciso dominar as tags, atributos e criação de valores de atributos. Códigos organizados facilitam a vida de outros programadores de seu time, na hora de fazer manutenção, permitem melhor rankeamento no google, colaboram para o SEO além de deixar seu código acessivel para pessoas com deficiencia visual. Uma diferença entre classe e id é que podem haver várias classes com o mesmo valor, ao passo que ids devem ser únicos.",
             "img": "https://media.giphy.com/media/9Pxp76VEUxCQO3Vu5w/giphy.gif",
             "url": "https://medium.com/reprogramabr/organizando-seu-código-o-que-é-método-bem-e-como-utilizá-lo-89f1664af295"
         }
@@ -74,7 +74,7 @@
             "title": "Como inserir estilo aos elementos do HTML?",
             "description": "seletor {propriedade: valor;} Tipos de seletores e como identificar no css: Class: Use o ponto '.'; Id: Use '#'; Tag: Use apenas o nome da tag",
             "img": "https://media.giphy.com/media/3o7aCWupfZBk2cReqA/giphy.gif",
-            "url": "https://developer.mozilla.org/pt-BR/docs/Aprender/Getting_started_with_the_web/CSS_basico"
+            "url": "https://www.instagram.com/tv/CCqqUABp9vB/
         },
         {
             "id": 3,
